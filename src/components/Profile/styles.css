@@ -1,0 +1,28 @@
+* {
+    padding: 10px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.profile-container {
+    width: 650px;
+    background-color: white;
+    border: 3px solid #0000FF;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: white;
+    background: linear-gradient(to top right, #0000FF, #00FFFF);
+}
+
+p {
+    font: bold 16px Arial, sans-serif;
+}
+
+img {
+    align-self: center;
+    width: 620px;
+    height: 400px;
+}
